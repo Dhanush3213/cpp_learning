@@ -1,0 +1,2 @@
+
+int sharedVariable = 42;
